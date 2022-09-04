@@ -8,7 +8,7 @@ export default function NameBar() {
     if (time < 13 && time > 5) setGreetingMessage('Good Morning');
     if (time >= 13 && time < 17) setGreetingMessage('Good Afternoon');
     if (time >= 17 && time <= 24) setGreetingMessage('Good Evening');
-    if (time > 0 && time <= 5) setGreetingMessage('Hey folks');
+    if (time >= 0 && time <= 5) setGreetingMessage('Hey folks');
   };
 
   useEffect(() => {
