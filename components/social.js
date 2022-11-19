@@ -32,11 +32,7 @@ export default function Social() {
           <BsMedium className="mr-5" size={30} />
         </a>
 
-        <a
-          href="mailto:kiranmurali93@gmail.com"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a href="mailto:info@kiranpk.dev" target="_blank" rel="noreferrer">
           <CgMail className="mr-5" size={30} />
         </a>
 

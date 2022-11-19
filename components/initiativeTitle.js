@@ -12,7 +12,7 @@ export default function InitiativesTitle({ data }) {
             <div className="mt-6" key={index}>
               <div className="text text-2xl">{value.title}</div>
               <div className="text text-sm">{value.company}</div>
-              <div className="text text-lg break-all">{value.content}</div>
+              <div className="text text-lg">{value.content}</div>
             </div>
           );
         })}

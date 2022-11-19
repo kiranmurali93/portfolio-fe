@@ -29,7 +29,7 @@ export default function NameBar() {
           SuperHire
         </a>
         . Apart from that, I&apos;m a mentor, content creator, and freelancer
-        and help startups brainstorm different ideas.
+        and help startups brainstorm different product ideas.
       </div>
       <div className="h-4 bg-[#CC6666] rounded-md content-center m-auto mt-5"></div>
     </div>
